@@ -67,7 +67,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>${project.artifactId}</finalName>
+	<finalName>stripe-payment</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

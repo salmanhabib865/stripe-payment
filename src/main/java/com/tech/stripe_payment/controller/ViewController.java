@@ -1,4 +1,4 @@
-package com.tech.stripe_payment;
+package com.tech.stripe_payment.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
